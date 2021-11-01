@@ -50,3 +50,9 @@
 
 ![image](https://user-images.githubusercontent.com/70855182/139713071-c80abe93-bae8-486c-b6e8-dc8fe51e81d9.png)
 
+Отключение сервера и клиента:
+
+![image](https://user-images.githubusercontent.com/70855182/139713827-28024177-6a90-4060-9bdd-0e6696b2bde9.png)
+
+![image](https://user-images.githubusercontent.com/70855182/139713857-53a7c4c3-1c67-4ca6-b2e2-35a4203be132.png)
+
